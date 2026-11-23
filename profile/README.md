@@ -23,5 +23,6 @@ LocalePro fixes both.
 Agencies, WooCommerce stores, and site owners who want a multilingual
 WordPress site without WPML's overhead or Weglot's recurring costs.
 
-**Website:** https://localepro.com  
+**Website:** https://localepro.com
+
 **Compare:** https://localepro.com/alternatives
